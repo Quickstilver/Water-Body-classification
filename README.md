@@ -21,7 +21,7 @@ To identify artificial water bodies, I designed an innovative a shape-based appr
 
 ## Open challenges and Potential Solutions
 
-There are several challenges when working with shape-based approaches for artificial lake identification, such as false positives and difficulties in data availability. To address these issues, we proposed alternative solutions such as supervised classification, clustering, and incorporating additional features. By continuously integrating diverse data sources and leveraging supervised classification systems, we can enhance data and progressively improve accuracy.
+There are several challenges when working with shape-based approaches for artificial lake identification, such as false positives and difficulties in data availability. To address these issues, I proposed alternative solutions such as supervised classification, clustering, and incorporating additional features. By continuously integrating diverse data sources and leveraging supervised classification systems, I can enhance data and progressively improve accuracy.
 
 
 ## Conclusion
