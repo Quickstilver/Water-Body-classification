@@ -15,7 +15,7 @@ This project focuses on a critical aspect of floating solar installations: ident
 
 ## Data and Implementation
 
-I mainly owrked with two  datasets, Water Bodies in Rhode Island and Sentinel-2 Data, to identify and visualize artificial water bodies in Rhode Island. Using a Jupyter Notebook, I created a script that leverages GeoPandas, Shapely, and other libraries to process and visualize geospatial data.
+I worked with two  datasets, Water Bodies in Rhode Island and Sentinel-2 Data, to identify and visualize artificial water bodies in Rhode Island. Using a Jupyter Notebook, I created a script that leverages GeoPandas, Shapely, and other libraries to process and visualize geospatial data.
 
 To identify artificial water bodies, I designed an innovative a shape-based approach. I calculated the rectangularity of each water body and considered it artificial if its area was more than 85% (perfect circle would have pi/4 about 78% overlap), of the area of its minimum bounding rectangle. After identifying artificial water bodies, I downloaded cropped Sentinel-2 images for the three largest and three smallest water bodies in Rhode Island.
 
