@@ -2,6 +2,7 @@
 
 ## Project Description
 
+
 This project focuses on a critical aspect of floating solar installations: identifying artificial water bodies. Solar developers often prefer to build on artificial water bodies (e.g. hydro-power reservoirs, water treatment plants) as they typically have an easier time obtaining permission. To help find these artificial water bodies, I developed a machine learning model capable of classifying any given water body as artificial or natural.
 
 ## Libraries Used
